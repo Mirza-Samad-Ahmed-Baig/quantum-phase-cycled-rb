@@ -1,0 +1,10 @@
+# Gap-Scan RB — core scientific stack (CPU-only; no CUDA/torch by design)
+numpy
+scipy
+matplotlib
+qutip                 # exact open-system / non-Markovian simulation
+qiskit                # RB circuit construction + execution
+qiskit-experiments    # standard/interleaved RB primitives
+qiskit-ibm-runtime    # submit jobs to free IBM Quantum devices
+stim                  # fast Clifford verification (optional ground truth)
+truststore            # use the OS trust store: this network intercepts TLS

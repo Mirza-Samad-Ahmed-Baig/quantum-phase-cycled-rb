@@ -1,0 +1,252 @@
+{
+  "kind": "complete_local_phase_cycle_acquisition_record",
+  "successes": [
+    {
+      "file": "data\\phase_cycle_20260905T143235Z_results.json",
+      "seed": 2026090501,
+      "kind": "hardware_injected_control",
+      "job_id": "dae2g1m42tqs73au4ev0",
+      "backend": "ibm_fez",
+      "qubit": 46,
+      "blocks": 128,
+      "shots": 8,
+      "angle": 0.8,
+      "beta": 1.5707963267948966,
+      "readout_gain": 0.998046875,
+      "calibration_success": [
+        511,
+        0
+      ],
+      "calibration_shots": [
+        512,
+        512
+      ],
+      "bootstrap": 4000,
+      "arms": [
+        {
+          "arm": "correlated",
+          "connected": 0.2580352678082357,
+          "ci": [
+            0.19352765114209655,
+            0.3182334564658789
+          ],
+          "stderr": 0.03243501779280456,
+          "ideal_ensemble_truth": 0.22871100495584196
+        },
+        {
+          "arm": "reset",
+          "connected": 0.003988263262390167,
+          "ci": [
+            -0.0703715817962201,
+            0.0779016449695497
+          ],
+          "stderr": 0.03807232326766478,
+          "ideal_ensemble_truth": 0.0
+        },
+        {
+          "arm": "static",
+          "connected": 0.04562177362068273,
+          "ci": [
+            -0.030385084315184746,
+            0.1195191249992247
+          ],
+          "stderr": 0.0378762245935797,
+          "ideal_ensemble_truth": 0.0
+        },
+        {
+          "arm": "none",
+          "connected": 0.04160635608429277,
+          "ci": [
+            -0.04097835959658729,
+            0.12650562953863112
+          ],
+          "stderr": 0.04241974567658367,
+          "ideal_ensemble_truth": 0.0
+        }
+      ],
+      "primary": {
+        "contrast": "correlated minus reset",
+        "estimate": 0.25404700454584556,
+        "ci": [
+          0.17749893741655995,
+          0.3310321273393324
+        ],
+        "stderr": 0.03929087788033155
+      },
+      "metrics": {
+        "caller": "qiskit_ibm_runtime~sampler.py",
+        "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+        "timestamps": {
+          "created": "2026-09-05T14:32:38.867258Z",
+          "finished": "2026-09-05T14:36:46.481626Z",
+          "running": "2026-09-05T14:33:01.910896Z"
+        },
+        "usage": {
+          "qpu_charge_time_seconds": 12,
+          "status": "complete"
+        },
+        "circuits_execution_time_ns": 8753447680
+      },
+      "caveats": [
+        "Only injected noise is paired across settings; intrinsic noise is not replayed.",
+        "Affine readout model and stable gate errors are assumptions; controls test their impact.",
+        "This is not a quantum-memory certification or a native-memory detection."
+      ],
+      "raw_counts_sha256": "8cf64aef3c3dba1147e75188107051fc5e2a9866fc5e84cab58d3331767d045d"
+    },
+    {
+      "file": "data\\phase_cycle_20260905T144244Z_results.json",
+      "seed": 2026090502,
+      "kind": "hardware_injected_control",
+      "job_id": "dae2kq642tqs73au4qag",
+      "backend": "ibm_fez",
+      "qubit": 46,
+      "blocks": 128,
+      "shots": 8,
+      "angle": 0.8,
+      "beta": 1.5707963267948966,
+      "readout_gain": 0.98828125,
+      "calibration_success": [
+        508,
+        2
+      ],
+      "calibration_shots": [
+        512,
+        512
+      ],
+      "bootstrap": 4000,
+      "arms": [
+        {
+          "arm": "correlated",
+          "connected": 0.17043630859981182,
+          "ci": [
+            0.10907169531747189,
+            0.2272453730217985
+          ],
+          "stderr": 0.03079375808388012,
+          "ideal_ensemble_truth": 0.22871100495584196
+        },
+        {
+          "arm": "reset",
+          "connected": -0.040930636845729,
+          "ci": [
+            -0.10532845189586942,
+            0.024931162833423167
+          ],
+          "stderr": 0.03298025811199473,
+          "ideal_ensemble_truth": 0.0
+        },
+        {
+          "arm": "static",
+          "connected": -0.011935437105731833,
+          "ci": [
+            -0.07694140964818505,
+            0.04954544470239459
+          ],
+          "stderr": 0.032416036436004075,
+          "ideal_ensemble_truth": 0.0
+        },
+        {
+          "arm": "none",
+          "connected": -0.015408712209884837,
+          "ci": [
+            -0.08743333186616271,
+            0.05682189874869661
+          ],
+          "stderr": 0.0372993433229655,
+          "ideal_ensemble_truth": 0.0
+        }
+      ],
+      "primary": {
+        "contrast": "correlated minus reset",
+        "estimate": 0.21136694544554083,
+        "ci": [
+          0.13590721486569987,
+          0.2851374299374331
+        ],
+        "stderr": 0.038056114866748064
+      },
+      "metrics": {
+        "caller": "qiskit_ibm_runtime~sampler.py",
+        "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+        "timestamps": {
+          "created": "2026-09-05T14:42:48.176253Z",
+          "finished": "2026-09-05T14:43:32.36258Z",
+          "running": "2026-09-05T14:42:49.104823Z"
+        },
+        "usage": {
+          "qpu_charge_time_seconds": 12,
+          "status": "complete"
+        },
+        "circuits_execution_time_ns": 8753435648
+      },
+      "caveats": [
+        "Only injected noise is paired across settings; intrinsic noise is not replayed.",
+        "Affine readout model and stable gate errors are assumptions; controls test their impact.",
+        "This is not a quantum-memory certification or a native-memory detection."
+      ],
+      "raw_counts_sha256": "f9418dd129281e67ad1ed087168f5ef6315bb7ab6f9afc695df2afb5d9da59f2"
+    }
+  ],
+  "failures": [
+    {
+      "job_id": "dae1uk51ierc738lh2ag",
+      "status": "ERROR",
+      "error": "Job dae1uk51ierc738lh2ag has failed:\nError code 1319; Job was out of sync and in an unexpected state",
+      "metrics": {
+        "caller": "qiskit_ibm_runtime~sampler.py",
+        "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+        "timestamps": {
+          "created": "2026-09-05T13:55:28.602698Z",
+          "finished": "2026-09-05T14:00:04.279487Z",
+          "running": "2026-09-05T13:55:30.207507Z"
+        },
+        "usage": {
+          "qpu_charge_time_seconds": 18,
+          "status": "complete"
+        },
+        "circuits_execution_time_ns": 14134297088
+      }
+    },
+    {
+      "job_id": "dae23e51ierc738lh990",
+      "status": "ERROR",
+      "error": "Job dae23e51ierc738lh990 ran longer than maximum execution time. Job was cancelled:\n",
+      "metrics": {
+        "caller": "qiskit_ibm_runtime~sampler.py",
+        "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+        "timestamps": {
+          "created": "2026-09-05T14:05:44.823366Z",
+          "finished": "2026-09-05T14:10:36.683706Z",
+          "running": "2026-09-05T14:05:45.926196Z"
+        },
+        "usage": {
+          "qpu_charge_time_seconds": 16,
+          "status": "pending"
+        },
+        "circuits_execution_time_ns": 12854290432
+      }
+    },
+    {
+      "job_id": "dae28vm42tqs73au3u7g",
+      "status": "ERROR",
+      "error": "Job dae28vm42tqs73au3u7g ran longer than maximum execution time. Job was cancelled:\n",
+      "metrics": {
+        "caller": "qiskit_ibm_runtime~sampler.py",
+        "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+        "timestamps": {
+          "created": "2026-09-05T14:17:34.977401Z",
+          "finished": "2026-09-05T14:21:32.807842Z",
+          "running": "2026-09-05T14:17:35.792191Z"
+        },
+        "usage": {
+          "qpu_charge_time_seconds": 11,
+          "status": "pending"
+        },
+        "circuits_execution_time_ns": 7472983296
+      }
+    }
+  ],
+  "unsuccessful_qpu_charge_seconds": 45,
+  "completed_qpu_charge_seconds": 24
+}

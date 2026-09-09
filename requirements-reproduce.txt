@@ -1,0 +1,6 @@
+# Python 3.12; archived-count analysis and new phase-cycle validation/figures.
+# The full historical environment is recorded separately in requirements.lock.txt.
+numpy==2.5.1
+scipy==1.18.0
+matplotlib==3.11.1
+qiskit==2.5.1

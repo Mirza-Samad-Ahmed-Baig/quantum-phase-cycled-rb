@@ -1,0 +1,84 @@
+[
+  {
+    "job_id": "dadv4ud1ierc738ldv00",
+    "pending_file": "data/poscontrol_ibm_fez_20260905T104409Z_probe_pending.json",
+    "results_file": "data/poscontrol_ibm_fez_20260905T104409Z_probe_results.json",
+    "status": "counts_archived",
+    "counts_file": "data/poscontrol_ibm_fez_20260905T104409Z_probe_counts.json",
+    "circuits": 288,
+    "sha256": "54467b48be37959ffd33ae0bf4f048feceda048508e4ee496485a0b19b235351"
+  },
+  {
+    "job_id": "dadv74lnj4cs73aeegt0",
+    "pending_file": "data/poscontrol_ibm_fez_20260905T104850Z_main_pending.json",
+    "results_file": "data/poscontrol_ibm_fez_20260905T104850Z_main_results.json",
+    "status": "counts_archived",
+    "counts_file": "data/poscontrol_ibm_fez_20260905T104850Z_main_counts.json",
+    "circuits": 2400,
+    "sha256": "245cb7d3e1cb69d61afde4b56eecd2dbec4383517ed8c34177778af554f43302"
+  },
+  {
+    "job_id": "dadveo3dd5gc73d7t82g",
+    "pending_file": "data/poscontrol_ibm_fez_20260905T110505Z_main2_pending.json",
+    "results_file": "data/poscontrol_ibm_fez_20260905T110505Z_main2_results.json",
+    "status": "counts_archived",
+    "counts_file": "data/poscontrol_ibm_fez_20260905T110505Z_main2_counts.json",
+    "circuits": 7200,
+    "sha256": "dcd73a641c2dd54c0b447710d48dd21d07e59b005641a80d8254fd4eca175068"
+  },
+  {
+    "job_id": "dadvhfdnj4cs73aeeti0",
+    "pending_file": "data/poscontrol_ibm_fez_20260905T111054Z_ddrep_pending.json",
+    "results_file": "data/poscontrol_ibm_fez_20260905T111054Z_ddrep_results.json",
+    "status": "counts_archived",
+    "counts_file": "data/poscontrol_ibm_fez_20260905T111054Z_ddrep_counts.json",
+    "circuits": 3200,
+    "sha256": "08901e344a1a04673a06ef971b7d8f82b1ceb3d1e7a2eee1cfd3b61e461b68da"
+  },
+  {
+    "job_id": "d9l2vgibr2fc73e84e60",
+    "pending_file": "data/survey_ibm_fez_20260729T165216Z_survey_pending.json",
+    "results_file": "data/survey_ibm_fez_20260729T165216Z_survey_results.json",
+    "status": "retrieval_failed",
+    "error_type": "RuntimeJobNotFound"
+  },
+  {
+    "job_id": "d9l3412br2fc73e84je0",
+    "pending_file": "data/survey_ibm_fez_20260729T170154Z_offset_pending.json",
+    "results_file": "data/survey_ibm_fez_20260729T170154Z_offset_results.json",
+    "status": "retrieval_failed",
+    "error_type": "RuntimeJobNotFound"
+  },
+  {
+    "job_id": "d9lepkjjf64c739jecdg",
+    "pending_file": "data/survey_ibm_fez_20260730T095356Z_confirm_pending.json",
+    "results_file": "data/survey_ibm_fez_20260730T095356Z_confirm_results.json",
+    "status": "retrieval_failed",
+    "error_type": "RuntimeJobNotFound"
+  },
+  {
+    "job_id": "d9mr6t6h4e6s738vja5g",
+    "pending_file": "data/survey_ibm_fez_20260801T085101Z_deep_pending.json",
+    "results_file": "data/survey_ibm_fez_20260801T085101Z_deep_results.json",
+    "status": "retrieval_failed",
+    "error_type": "RuntimeJobNotFound"
+  },
+  {
+    "job_id": "dadvj0642tqs73au0qe0",
+    "pending_file": "data/survey_ibm_marrakesh_20260905T111408Z_survey_pending.json",
+    "results_file": "data/survey_ibm_marrakesh_20260905T111408Z_survey_results.json",
+    "status": "counts_archived",
+    "counts_file": "data/survey_ibm_marrakesh_20260905T111408Z_survey_counts.json",
+    "circuits": 3200,
+    "sha256": "77ad1563fb86b8a55c9b5b7f2cfe8364c08bca7d1fba2cb44a53589b5c35adbc"
+  },
+  {
+    "job_id": "dadvkk51ierc738lei40",
+    "pending_file": "data/survey_ibm_marrakesh_20260905T111737Z_confirm_pending.json",
+    "results_file": "data/survey_ibm_marrakesh_20260905T111737Z_confirm_results.json",
+    "status": "counts_archived",
+    "counts_file": "data/survey_ibm_marrakesh_20260905T111737Z_confirm_counts.json",
+    "circuits": 3200,
+    "sha256": "284b81ae8ecf30b1d295efb1036f8b0dc9db70f814858ab5139f42bc8fa83fef"
+  }
+]

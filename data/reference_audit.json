@@ -1,0 +1,2269 @@
+{
+  "checked_utc": "2026-09-05T15:45:19.422491+00:00",
+  "records": [
+    {
+      "key": "Emerson2005",
+      "doi": "10.1088/1464-4266/7/10/021",
+      "local_title": "Scalable noise estimation with random unitary operators",
+      "local_year": 2005,
+      "status": "verified_metadata",
+      "registered_title": "Scalable noise estimation with random unitary operators",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2005,
+            9,
+            21
+          ]
+        ],
+        "published-online": [
+          [
+            2005,
+            9,
+            21
+          ]
+        ],
+        "published-print": [
+          [
+            2005,
+            10,
+            1
+          ]
+        ]
+      },
+      "journal": [
+        "Journal of Optics B: Quantum and Semiclassical Optics"
+      ],
+      "volume": "7",
+      "pages": "S347-S352",
+      "article_number": null,
+      "authors": [
+        {
+          "given": "Joseph",
+          "family": "Emerson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robert",
+          "family": "Alicki",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Karol",
+          "family": "\u017byczkowski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1088%2F1464-4266%2F7%2F10%2F021"
+    },
+    {
+      "key": "OMalley2015",
+      "doi": "10.1103/PhysRevApplied.3.044009",
+      "local_title": "Qubit metrology of ultralow phase noise using randomized benchmarking",
+      "local_year": 2015,
+      "status": "verified_metadata",
+      "registered_title": "Qubit Metrology of Ultralow Phase Noise Using Randomized Benchmarking",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2015,
+            4,
+            17
+          ]
+        ],
+        "published-online": [
+          [
+            2015,
+            4,
+            17
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review Applied"
+      ],
+      "volume": "3",
+      "pages": null,
+      "article_number": "044009",
+      "authors": [
+        {
+          "given": "P.\u2009J.\u2009J.",
+          "family": "O\u2019Malley",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Kelly",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Barends",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Campbell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Z.",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Chiaro",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Dunsworth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.\u2009G.",
+          "family": "Fowler",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "I.-C.",
+          "family": "Hoi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Jeffrey",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Megrant",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Mutus",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Neill",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Quintana",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Roushan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Sank",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Vainsencher",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Wenner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.\u2009C.",
+          "family": "White",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.\u2009N.",
+          "family": "Korotkov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.\u2009N.",
+          "family": "Cleland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "John M.",
+          "family": "Martinis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevApplied.3.044009"
+    },
+    {
+      "key": "Edmunds2020",
+      "doi": "10.1103/PhysRevResearch.2.013156",
+      "local_title": "Dynamically corrected gates suppressing spatiotemporal error\n           correlations as measured by randomized benchmarking",
+      "local_year": 2020,
+      "status": "verified_metadata",
+      "registered_title": "Dynamically corrected gates suppressing spatiotemporal error correlations as measured by randomized benchmarking",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2020,
+            2,
+            13
+          ]
+        ],
+        "published-online": [
+          [
+            2020,
+            2,
+            13
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review Research"
+      ],
+      "volume": "2",
+      "pages": null,
+      "article_number": "013156",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2367-9074",
+          "authenticated-orcid": true,
+          "given": "C. L.",
+          "family": "Edmunds",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4053-722X",
+          "authenticated-orcid": true,
+          "given": "C.",
+          "family": "Hempel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R. J.",
+          "family": "Harris",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "V.",
+          "family": "Frey",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T. M.",
+          "family": "Stace",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. J.",
+          "family": "Biercuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevResearch.2.013156"
+    },
+    {
+      "key": "Meinel2022",
+      "doi": "10.1038/s41467-022-32610-8",
+      "local_title": "Quantum nonlinear spectroscopy of single nuclear spins",
+      "local_year": 2022,
+      "status": "verified_metadata",
+      "registered_title": "Quantum nonlinear spectroscopy of single nuclear spins",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2022,
+            9,
+            9
+          ]
+        ],
+        "published-online": [
+          [
+            2022,
+            9,
+            9
+          ]
+        ]
+      },
+      "journal": [
+        "Nature Communications"
+      ],
+      "volume": "13",
+      "pages": null,
+      "article_number": "5318",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4040-8361",
+          "authenticated-orcid": false,
+          "given": "Jonas",
+          "family": "Meinel",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6784-4932",
+          "authenticated-orcid": false,
+          "given": "Vadim",
+          "family": "Vorobyov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ping",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Boris",
+          "family": "Yavkin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3934-8306",
+          "authenticated-orcid": false,
+          "given": "Mathias",
+          "family": "Pfender",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hitoshi",
+          "family": "Sumiya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1425-0708",
+          "authenticated-orcid": false,
+          "given": "Shinobu",
+          "family": "Onoda",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9598-625X",
+          "authenticated-orcid": false,
+          "given": "Junichi",
+          "family": "Isoya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0620-2370",
+          "authenticated-orcid": false,
+          "given": "Ren-Bao",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Wrachtrup",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1038%2Fs41467-022-32610-8"
+    },
+    {
+      "key": "Knill2008",
+      "doi": "10.1103/PhysRevA.77.012307",
+      "local_title": "Randomized benchmarking of quantum gates",
+      "local_year": 2008,
+      "status": "verified_metadata",
+      "registered_title": "Randomized benchmarking of quantum gates",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2008,
+            1,
+            8
+          ]
+        ],
+        "published-online": [
+          [
+            2008,
+            1,
+            8
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review A"
+      ],
+      "volume": "77",
+      "pages": null,
+      "article_number": "012307",
+      "authors": [
+        {
+          "given": "E.",
+          "family": "Knill",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D.",
+          "family": "Leibfried",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Reichle",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Britton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R. B.",
+          "family": "Blakestad",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J. D.",
+          "family": "Jost",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Langer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Ozeri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Seidelin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D. J.",
+          "family": "Wineland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevA.77.012307"
+    },
+    {
+      "key": "Magesan2011",
+      "doi": "10.1103/PhysRevLett.106.180504",
+      "local_title": "Scalable and robust randomized benchmarking of quantum processes",
+      "local_year": 2011,
+      "status": "verified_metadata",
+      "registered_title": "Scalable and Robust Randomized Benchmarking of Quantum Processes",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2011,
+            5,
+            6
+          ]
+        ],
+        "published-online": [
+          [
+            2011,
+            5,
+            6
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review Letters"
+      ],
+      "volume": "106",
+      "pages": null,
+      "article_number": "180504",
+      "authors": [
+        {
+          "given": "Easwar",
+          "family": "Magesan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J. M.",
+          "family": "Gambetta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joseph",
+          "family": "Emerson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevLett.106.180504"
+    },
+    {
+      "key": "BlindSpots2026",
+      "doi": "10.1103/r1z5-ycqc",
+      "local_title": "Blind spots of randomized benchmarking under temporal correlations",
+      "local_year": 2026,
+      "status": "verified_metadata",
+      "registered_title": "Blind spots of randomized benchmarking under temporal correlations",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2026,
+            6,
+            8
+          ]
+        ],
+        "published-online": [
+          [
+            2026,
+            6,
+            8
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review Research"
+      ],
+      "volume": "8",
+      "pages": null,
+      "article_number": "023258",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3907-5304",
+          "authenticated-orcid": true,
+          "given": "Varun",
+          "family": "Srivastava",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01sf06y89",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Macquarie University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7156-1989",
+          "authenticated-orcid": true,
+          "given": "Abhinash Kumar",
+          "family": "Roy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01sf06y89",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Macquarie University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0380-0324",
+          "authenticated-orcid": true,
+          "given": "Soumik",
+          "family": "Mahanti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01sf06y89",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Macquarie University"
+            },
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03f0f6041",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University of Technology Sydney"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jasleen",
+          "family": "Kaur",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01sf06y89",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Macquarie University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1513-7857",
+          "authenticated-orcid": true,
+          "given": "Salini",
+          "family": "Karuvade",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/0384j8v12",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "The University of Sydney"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexei",
+          "family": "Gilchrist",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/01sf06y89",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Macquarie University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2Fr1z5-ycqc"
+    },
+    {
+      "key": "Ball2016",
+      "doi": "10.1103/PhysRevA.93.022303",
+      "local_title": "Effect of noise correlations on randomized benchmarking",
+      "local_year": 2016,
+      "status": "verified_metadata",
+      "registered_title": "Effect of noise correlations on randomized benchmarking",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2016,
+            2,
+            1
+          ]
+        ],
+        "published-online": [
+          [
+            2016,
+            2,
+            1
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review A"
+      ],
+      "volume": "93",
+      "pages": null,
+      "article_number": "022303",
+      "authors": [
+        {
+          "given": "Harrison",
+          "family": "Ball",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Thomas M.",
+          "family": "Stace",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Steven T.",
+          "family": "Flammia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael J.",
+          "family": "Biercuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevA.93.022303"
+    },
+    {
+      "key": "Qi2021",
+      "doi": "10.1103/PhysRevA.103.022607",
+      "local_title": "Randomized benchmarking in the presence of time-correlated dephasing noise",
+      "local_year": 2021,
+      "status": "verified_metadata",
+      "registered_title": "Randomized benchmarking in the presence of time-correlated dephasing noise",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2021,
+            2,
+            15
+          ]
+        ],
+        "published-online": [
+          [
+            2021,
+            2,
+            15
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review A"
+      ],
+      "volume": "103",
+      "pages": null,
+      "article_number": "022607",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8444-2225",
+          "authenticated-orcid": true,
+          "given": "Jiaan",
+          "family": "Qi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hui Khoon",
+          "family": "Ng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevA.103.022607"
+    },
+    {
+      "key": "Fogarty2015",
+      "doi": "10.1103/PhysRevA.92.022326",
+      "local_title": "Nonexponential fidelity decay in randomized benchmarking with\n             low-frequency noise",
+      "local_year": 2015,
+      "status": "verified_metadata",
+      "registered_title": "Nonexponential fidelity decay in randomized benchmarking with low-frequency noise",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2015,
+            8,
+            11
+          ]
+        ],
+        "published-online": [
+          [
+            2015,
+            8,
+            11
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review A"
+      ],
+      "volume": "92",
+      "pages": null,
+      "article_number": "022326",
+      "authors": [
+        {
+          "given": "M. A.",
+          "family": "Fogarty",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Veldhorst",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Harper",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C. H.",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S. D.",
+          "family": "Bartlett",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S. T.",
+          "family": "Flammia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A. S.",
+          "family": "Dzurak",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevA.92.022326"
+    },
+    {
+      "key": "Zhang2025",
+      "doi": "10.1038/s42005-025-01944-2",
+      "local_title": "Learning and forecasting open quantum dynamics with correlated noise",
+      "local_year": 2025,
+      "status": "verified_metadata",
+      "registered_title": "Learning and forecasting open quantum dynamics with correlated noise",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2025,
+            1,
+            18
+          ]
+        ],
+        "published-online": [
+          [
+            2025,
+            1,
+            18
+          ]
+        ]
+      },
+      "journal": [
+        "Communications Physics"
+      ],
+      "volume": "8",
+      "pages": null,
+      "article_number": "29",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9152-0284",
+          "authenticated-orcid": false,
+          "given": "Xinfang",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhihao",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gregory A. L.",
+          "family": "White",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0734-1217",
+          "authenticated-orcid": false,
+          "given": "Zhongcheng",
+          "family": "Xiang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shun",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7447-3893",
+          "authenticated-orcid": false,
+          "given": "Zhihui",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yong",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5895-0111",
+          "authenticated-orcid": false,
+          "given": "Dongning",
+          "family": "Zheng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiang",
+          "family": "Fu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anqi",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5626-0176",
+          "authenticated-orcid": false,
+          "given": "Dario",
+          "family": "Poletti",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2054-9901",
+          "authenticated-orcid": false,
+          "given": "Kavan",
+          "family": "Modi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Junjie",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2809-6158",
+          "authenticated-orcid": false,
+          "given": "Mingtang",
+          "family": "Deng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3411-3076",
+          "authenticated-orcid": false,
+          "given": "Chu",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1038%2Fs42005-025-01944-2"
+    },
+    {
+      "key": "Helsen2020",
+      "doi": "10.1038/s41534-019-0182-7",
+      "local_title": "A new class of efficient randomized benchmarking protocols",
+      "local_year": 2019,
+      "status": "verified_metadata",
+      "registered_title": "A new class of efficient randomized benchmarking protocols",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2019,
+            8,
+            21
+          ]
+        ],
+        "published-online": [
+          [
+            2019,
+            8,
+            21
+          ]
+        ]
+      },
+      "journal": [
+        "npj Quantum Information"
+      ],
+      "volume": "5",
+      "pages": null,
+      "article_number": "71",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7218-2585",
+          "authenticated-orcid": false,
+          "given": "Jonas",
+          "family": "Helsen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiao",
+          "family": "Xue",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4346-7877",
+          "authenticated-orcid": false,
+          "given": "Lieven M. K.",
+          "family": "Vandersypen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stephanie",
+          "family": "Wehner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1038%2Fs41534-019-0182-7"
+    },
+    {
+      "key": "HelsenFramework2022",
+      "doi": "10.1103/PRXQuantum.3.020357",
+      "local_title": "General framework for randomized benchmarking",
+      "local_year": 2022,
+      "status": "verified_metadata",
+      "registered_title": "General Framework for Randomized Benchmarking",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2022,
+            6,
+            16
+          ]
+        ],
+        "published-online": [
+          [
+            2022,
+            6,
+            16
+          ]
+        ]
+      },
+      "journal": [
+        "PRX Quantum"
+      ],
+      "volume": "3",
+      "pages": null,
+      "article_number": "020357",
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7218-2585",
+          "authenticated-orcid": true,
+          "given": "J.",
+          "family": "Helsen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1191-7442",
+          "authenticated-orcid": true,
+          "given": "I.",
+          "family": "Roth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "E.",
+          "family": "Onorati",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.H.",
+          "family": "Werner",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.",
+          "family": "Eisert",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPRXQuantum.3.020357"
+    },
+    {
+      "key": "Wallman2014",
+      "doi": "10.1088/1367-2630/16/10/103032",
+      "local_title": "Randomized benchmarking with confidence",
+      "local_year": 2014,
+      "status": "verified_metadata",
+      "registered_title": "Randomized benchmarking with confidence",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2014,
+            10,
+            20
+          ]
+        ],
+        "published-online": [
+          [
+            2014,
+            10,
+            20
+          ]
+        ]
+      },
+      "journal": [
+        "New Journal of Physics"
+      ],
+      "volume": "16",
+      "pages": "103032",
+      "article_number": null,
+      "authors": [
+        {
+          "given": "Joel J",
+          "family": "Wallman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Steven T",
+          "family": "Flammia",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1088%2F1367-2630%2F16%2F10%2F103032"
+    },
+    {
+      "key": "Brillant2025",
+      "doi": "10.1103/tmfd-qc5q",
+      "local_title": "Randomized benchmarking with non-Markovian noise and realistic\n            finite-time gates",
+      "local_year": 2025,
+      "status": "verified_metadata",
+      "registered_title": "Randomized benchmarking with non-Markovian noise and realistic finite-time gates",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2025,
+            6,
+            27
+          ]
+        ],
+        "published-online": [
+          [
+            2025,
+            6,
+            27
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review Letters"
+      ],
+      "volume": null,
+      "pages": null,
+      "article_number": null,
+      "authors": [
+        {
+          "family": "Anonymous",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2Ftmfd-qc5q"
+    },
+    {
+      "key": "Yan2012",
+      "doi": "10.1103/PhysRevB.85.174521",
+      "local_title": "Spectroscopy of low-frequency noise and its temperature dependence\n           in a superconducting qubit",
+      "local_year": 2012,
+      "status": "verified_metadata",
+      "registered_title": "Spectroscopy of low-frequency noise and its temperature dependence in a superconducting qubit",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2012,
+            5,
+            22
+          ]
+        ],
+        "published-online": [
+          [
+            2012,
+            5,
+            22
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review B"
+      ],
+      "volume": "85",
+      "pages": null,
+      "article_number": "174521",
+      "authors": [
+        {
+          "given": "Fei",
+          "family": "Yan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jonas",
+          "family": "Bylander",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Simon",
+          "family": "Gustavsson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fumiki",
+          "family": "Yoshihara",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Khalil",
+          "family": "Harrabi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David G.",
+          "family": "Cory",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Terry P.",
+          "family": "Orlando",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yasunobu",
+          "family": "Nakamura",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jaw-Shen",
+          "family": "Tsai",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "William D.",
+          "family": "Oliver",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevB.85.174521"
+    },
+    {
+      "key": "Zohar2026",
+      "doi": "10.48550/arXiv.2603.05650",
+      "local_title": "Ramsey correlation spectroscopy with phase cycling using a single quantum sensor",
+      "local_year": 2026,
+      "status": "preprint_primary_arxiv_checked_separately"
+    },
+    {
+      "key": "Yang2022",
+      "doi": "10.48550/arXiv.2207.01542",
+      "local_title": "Machine learning of average non-{M}arkovianity from randomized\n            benchmarking",
+      "local_year": 2022,
+      "status": "preprint_primary_arxiv_checked_separately"
+    },
+    {
+      "key": "Viola1999",
+      "doi": "10.1103/PhysRevLett.82.2417",
+      "local_title": "Dynamical decoupling of open quantum systems",
+      "local_year": 1999,
+      "status": "verified_metadata",
+      "registered_title": "Dynamical Decoupling of Open Quantum Systems",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            1999,
+            3,
+            22
+          ]
+        ],
+        "published-online": [
+          [
+            1999,
+            3,
+            22
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review Letters"
+      ],
+      "volume": "82",
+      "pages": "2417-2421",
+      "article_number": null,
+      "authors": [
+        {
+          "given": "Lorenza",
+          "family": "Viola",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Emanuel",
+          "family": "Knill",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Seth",
+          "family": "Lloyd",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevLett.82.2417"
+    },
+    {
+      "key": "Paladino2014",
+      "doi": "10.1103/RevModPhys.86.361",
+      "local_title": "{$1/f$} noise: Implications for solid-state quantum information",
+      "local_year": 2014,
+      "status": "verified_metadata",
+      "registered_title": "<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n                      <mml:mn mathvariant=\"bold-sans-serif\">1</mml:mn>\n                      <mml:mo>/</mml:mo>\n                      <mml:mi mathvariant=\"sans-serif-bold-italic\">f</mml:mi>\n                    </mml:math>\n                    noise: Implications for solid-state quantum information",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2014,
+            4,
+            3
+          ]
+        ],
+        "published-online": [
+          [
+            2014,
+            4,
+            3
+          ]
+        ]
+      },
+      "journal": [
+        "Reviews of Modern Physics"
+      ],
+      "volume": "86",
+      "pages": "361-418",
+      "article_number": null,
+      "authors": [
+        {
+          "given": "E.",
+          "family": "Paladino",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Y.\u2009M.",
+          "family": "Galperin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.",
+          "family": "Falci",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.\u2009L.",
+          "family": "Altshuler",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FRevModPhys.86.361"
+    },
+    {
+      "key": "Cywinski2008",
+      "doi": "10.1103/PhysRevB.77.174509",
+      "local_title": "How to enhance dephasing time in superconducting qubits",
+      "local_year": 2008,
+      "status": "verified_metadata",
+      "registered_title": "How to enhance dephasing time in superconducting qubits",
+      "title_similarity": 1.0,
+      "dates": {
+        "published": [
+          [
+            2008,
+            5,
+            13
+          ]
+        ],
+        "published-online": [
+          [
+            2008,
+            5,
+            13
+          ]
+        ]
+      },
+      "journal": [
+        "Physical Review B"
+      ],
+      "volume": "77",
+      "pages": null,
+      "article_number": "174509",
+      "authors": [
+        {
+          "given": "\u0141ukasz",
+          "family": "Cywi\u0144ski",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roman M.",
+          "family": "Lutchyn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cody P.",
+          "family": "Nave",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Das Sarma",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "source": "https://api.crossref.org/works/10.1103%2FPhysRevB.77.174509"
+    },
+    {
+      "key": "Qiskit2024",
+      "doi": "10.48550/arXiv.2405.08810",
+      "local_title": "Quantum computing with {Q}iskit",
+      "local_year": 2024,
+      "status": "preprint_primary_arxiv_checked_separately"
+    }
+  ],
+  "caveat": "Metadata verification is not a substitute for author review of relevance and contents."
+}

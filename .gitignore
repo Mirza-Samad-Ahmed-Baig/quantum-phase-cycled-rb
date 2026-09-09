@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data / outputs (keep repo lean given disk limits)
+data/raw/
+*.npy
+*.npz
+*.h5
+*.hdf5
+figures/*.png
+
+# IBM Quantum credentials — never commit
+.qiskit/
+*token*
+.env
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Experiment outputs (regenerable; raw data can be large)
+data/*.npz
+data/*_meta.json
+data/calibration_log.jsonl
+
+.tmp-*/
+
+# Manuscript/paper-prep artifacts (published on arXiv; not tracked here)
+paper/
+submission/
+arxiv/
+release/
+PLAN.md

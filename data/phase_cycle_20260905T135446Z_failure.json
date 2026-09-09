@@ -1,0 +1,19 @@
+{
+  "job_id": "dae1uk51ierc738lh2ag",
+  "status": "ERROR",
+  "error": "Job dae1uk51ierc738lh2ag has failed:\nError code 1319; Job was out of sync and in an unexpected state",
+  "metrics": {
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+    "timestamps": {
+      "created": "2026-09-05T13:55:28.602698Z",
+      "finished": "2026-09-05T14:00:04.279487Z",
+      "running": "2026-09-05T13:55:30.207507Z"
+    },
+    "usage": {
+      "qpu_charge_time_seconds": 18,
+      "status": "complete"
+    },
+    "circuits_execution_time_ns": 14134297088
+  }
+}

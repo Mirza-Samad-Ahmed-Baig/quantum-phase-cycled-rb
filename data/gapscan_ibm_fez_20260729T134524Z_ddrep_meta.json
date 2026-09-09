@@ -1,0 +1,67 @@
+{
+  "job_id": "d9l0818ii2cc73egqrg0",
+  "backend": "ibm_fez",
+  "lengths": [
+    2,
+    6,
+    12,
+    20
+  ],
+  "shots": 512,
+  "n_sequences": 5,
+  "n_repeats": 4,
+  "delays_realized_s": {
+    "40.0": 4e-08,
+    "160.0": 1.6e-07,
+    "640.0": 6.4e-07
+  },
+  "dd_conditions": [
+    "none",
+    "xy4"
+  ],
+  "qubit": 0,
+  "seed": 20260729,
+  "dt_s": 4e-09,
+  "calibration": {
+    "backend": "ibm_fez",
+    "qubit": 0,
+    "timestamp_utc": "2026-07-29T13:45:31.498209+00:00",
+    "dt_s": 4e-09,
+    "T1_s": 4.4881983276552e-05,
+    "T2_s": 1.1087351518175171e-05,
+    "frequency_Hz": null,
+    "readout_error": 0.01318359375,
+    "gate_error_sx": 0.001747856540789608,
+    "gate_error_x": 0.001747856540789608,
+    "gate_error_rz": 0.0,
+    "gate_error_id": 0.001747856540789608,
+    "last_update_date": "2026-07-29 16:16:12+03:00",
+    "gate_duration_sx_s": 2.4e-08,
+    "gate_duration_x_s": 2.4e-08
+  },
+  "timestamp_utc": "20260729T134524Z",
+  "keys": [
+    "none|1.6e-07",
+    "none|4e-08",
+    "none|6.4e-07",
+    "xy4|1.6e-07",
+    "xy4|4e-08",
+    "xy4|6.4e-07"
+  ],
+  "fetched": true,
+  "w_var_rep": 0.7135043038610389,
+  "witness": {
+    "nu": 0.8441694177008395,
+    "nu_ci": [
+      0.4144006709832524,
+      1.1580382615017792
+    ],
+    "w_var": 21.93259172329516,
+    "label": "quantum-memory-unconfirmed",
+    "epcs": [
+      0.011134553026923621,
+      0.0029907173723651703,
+      0.031063947105543277
+    ]
+  }
+}

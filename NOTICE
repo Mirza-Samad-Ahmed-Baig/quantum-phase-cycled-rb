@@ -1,0 +1,20 @@
+quantum-phase-cycled-rb
+Phase-cycled randomized benchmarking of quantum processors:
+recovering hidden classical noise correlations
+
+Copyright (c) 2026
+Mirza Samad Ahmed Baig
+Syeda Anshrah Gillani
+Abdul Akbar Khan
+Muhammad Omer Khan
+
+Source repository:
+https://github.com/Mirza-Samad-Ahmed-Baig/quantum-phase-cycled-rb
+
+Retain the attribution and license notices required by the applicable license.
+Identify modifications and their authors without misrepresenting the original
+authors as the authors of those modifications or implying their endorsement.
+
+See LICENSE for software terms and LICENSE_DATA.md for original data and figures.
+CITATION.cff and ATTRIBUTION.md provide citation metadata and a credit statement.
+This notice summarizes provenance and does not replace the applicable licenses.

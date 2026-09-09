@@ -1,0 +1,61 @@
+{
+  "job_id": "d9l040rjf64c739ir34g",
+  "backend": "ibm_fez",
+  "lengths": [
+    2,
+    6,
+    12,
+    20
+  ],
+  "shots": 512,
+  "n_sequences": 10,
+  "delays_realized_s": {
+    "40.0": 4e-08,
+    "160.0": 1.6e-07,
+    "640.0": 6.4e-07
+  },
+  "dd_conditions": [
+    "none"
+  ],
+  "qubit": 0,
+  "seed": 20260729,
+  "dt_s": 4e-09,
+  "calibration": {
+    "backend": "ibm_fez",
+    "qubit": 0,
+    "timestamp_utc": "2026-07-29T13:36:54.384850+00:00",
+    "dt_s": 4e-09,
+    "T1_s": 4.4881983276552e-05,
+    "T2_s": 1.1087351518175171e-05,
+    "frequency_Hz": null,
+    "readout_error": 0.01318359375,
+    "gate_error_sx": 0.001747856540789608,
+    "gate_error_x": 0.001747856540789608,
+    "gate_error_rz": 0.0,
+    "gate_error_id": 0.001747856540789608,
+    "last_update_date": "2026-07-29 16:16:12+03:00",
+    "gate_duration_sx_s": 2.4e-08,
+    "gate_duration_x_s": 2.4e-08
+  },
+  "timestamp_utc": "20260729T133639Z",
+  "keys": [
+    "none|1.6e-07",
+    "none|4e-08",
+    "none|6.4e-07"
+  ],
+  "fetched": true,
+  "witness": {
+    "nu": 1.0221798562479751,
+    "nu_ci": [
+      0.896245682534602,
+      1.1801906428188376
+    ],
+    "w_var": 19.057641037953843,
+    "label": "memoryless",
+    "epcs": [
+      0.014917614849614957,
+      0.00368019362955313,
+      0.06261780790995958
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+Quantum RB Attribution License 1.0
+Custom source-available license
+SPDX-License-Identifier: LicenseRef-Quantum-RB-Attribution-1.0
+
+Copyright (c) 2026 Mirza Samad Ahmed Baig, Syeda Anshrah Gillani,
+Abdul Akbar Khan, and Muhammad Omer Khan
+
+Project: quantum-phase-cycled-rb
+Source: https://github.com/Mirza-Samad-Ahmed-Baig/quantum-phase-cycled-rb
+
+1. Permission and scope
+
+Subject to the conditions below, the copyright holders grant you a worldwide,
+non-exclusive, royalty-free permission to use, reproduce, modify and distribute
+original software and software documentation supplied under this license
+(the Software), including for commercial purposes.
+
+This license covers only rights the licensors hold in the Software. It does not
+relicense third-party dependencies, bibliographic records, the manuscript text,
+or research data and figures, which have separate terms. It does not assert
+ownership of scientific ideas, mathematical methods, public-domain facts or
+independently written implementations. Applicable legal exceptions remain intact.
+
+2. Preserve authorship and notices
+
+Copies or substantial portions of the Software, including modified copies,
+must retain the copyright notice, this license, the source repository URL, and
+the original-author attribution supplied in NOTICE. When distributing source,
+also retain CITATION.cff or equivalent citation metadata. For binary distribution,
+include these notices in accompanying documentation or an accessible credits file.
+
+You must not remove original-author credit, falsely claim authorship of the
+original Software, or imply that the original authors endorse your modifications,
+product, service or conclusions. Identify your substantial modifications and
+their authors separately.
+
+3. Credit in public work using the Software
+
+As a condition of the permission in section 1, when you publicly disseminate a
+research paper, thesis, report, presentation, dataset, software product or service
+whose results or functionality substantially use the Software or a modified
+version, include an appropriate attribution in that public work or its directly
+accompanying documentation.
+
+The attribution must identify:
+  - Mirza Samad Ahmed Baig, Syeda Anshrah Gillani, Abdul Akbar Khan, and
+    Muhammad Omer Khan as the original authors;
+  - quantum-phase-cycled-rb and the source repository URL above; and
+  - the accompanying paper, "Phase-cycled randomized benchmarking of quantum
+    processors: recovering hidden classical noise correlations" (2026).
+
+Include the software version or commit used when reasonably available. An
+ordinary academic citation, with standard author-name abbreviation permitted
+by the publication's citation style, can satisfy this requirement if the full
+author record and source can be identified. Suitable locations include a methods
+section, reference list, acknowledgments, product documentation or an accessible
+About/Credits page. Attribution need not appear in every screen or advertisement.
+
+Private internal use without a public work does not require a public announcement
+or disclosure of private research. This license does not require you to publish
+your results or your modifications.
+
+4. Redistribution and independent material
+
+Redistributed original or modified Software remains subject to sections 2 and 3
+for the portions covered by this license. You may license your own separate
+contributions under other terms that do not remove these conditions on the
+covered Software. These conditions do not apply to unrelated independent code
+merely distributed alongside the Software. No trademark or patent license is
+granted here.
+
+5. Noncompliance
+
+If you breach a condition, permission under this license terminates for the
+noncompliant use. Permission is reinstated when you cure the breach within
+30 days after discovering it, or when the copyright holders expressly reinstate
+it. Reinstatement does not erase any claim arising from an earlier breach.
+
+6. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE
+COPYRIGHT HOLDERS AND CONTRIBUTORS ARE NOT LIABLE FOR CLAIMS, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+7. Version and prior grants
+
+This is a custom source-available license, not the MIT license, and no OSI
+approval is claimed. It applies to copies distributed under this license.
+It does not purport to revoke or replace permissions already granted for
+earlier copies under another license. A future license revision does not
+automatically replace the terms accompanying a copy you received.

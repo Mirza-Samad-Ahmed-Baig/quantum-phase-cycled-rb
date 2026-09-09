@@ -1,0 +1,41 @@
+{
+  "checks": [
+    {
+      "job_id": "dadv4ud1ierc738ldv00",
+      "point_estimates_checked": 12,
+      "maximum_epc_difference": 0.0,
+      "raw_file": "data/poscontrol_ibm_fez_20260905T104409Z_probe_counts.json"
+    },
+    {
+      "job_id": "dadv74lnj4cs73aeegt0",
+      "point_estimates_checked": 20,
+      "maximum_epc_difference": 0.0,
+      "raw_file": "data/poscontrol_ibm_fez_20260905T104850Z_main_counts.json"
+    },
+    {
+      "job_id": "dadveo3dd5gc73d7t82g",
+      "point_estimates_checked": 20,
+      "maximum_epc_difference": 0.0,
+      "raw_file": "data/poscontrol_ibm_fez_20260905T110505Z_main2_counts.json"
+    },
+    {
+      "job_id": "dadvhfdnj4cs73aeeti0",
+      "point_estimates_checked": 4,
+      "maximum_epc_difference": 0.0,
+      "raw_file": "data/poscontrol_ibm_fez_20260905T111054Z_ddrep_counts.json"
+    },
+    {
+      "job_id": "dadvj0642tqs73au0qe0",
+      "point_estimates_checked": 40,
+      "maximum_epc_difference": 0.0,
+      "raw_file": "data/survey_ibm_marrakesh_20260905T111408Z_survey_counts.json"
+    },
+    {
+      "job_id": "dadvkk51ierc738lei40",
+      "point_estimates_checked": 5,
+      "maximum_epc_difference": 0.0,
+      "raw_file": "data/survey_ibm_marrakesh_20260905T111737Z_confirm_counts.json"
+    }
+  ],
+  "scope": "EPC point estimates only; historical bootstrap seeds used process-dependent Python hashes, so stored uncertainty summaries are retained rather than claimed bitwise reproducible"
+}

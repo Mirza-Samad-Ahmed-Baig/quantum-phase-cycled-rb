@@ -1,0 +1,8 @@
+{
+  "plan": "data/phase_cycle_design_replication.json",
+  "plan_sha256": "9075616f55e63e81e88a404b6a584bb1364cc6aef0f92625803b832eafba25c3",
+  "circuits_checked": 64,
+  "max_statevector_error": 4.440892098500626e-16,
+  "affine_static_naive_contrast": 0.02586721466050565,
+  "affine_static_corrected_contrast": -8.326672684688674e-17
+}

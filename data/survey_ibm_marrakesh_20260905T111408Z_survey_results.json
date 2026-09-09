@@ -1,0 +1,307 @@
+[
+  {
+    "qubit": 154,
+    "group": "candidate",
+    "ratio": 0.03471220455147102,
+    "T2_us": 22.24237088628309,
+    "nu": 0.701082993491741,
+    "nu_ci": [
+      0.5356612488494953,
+      0.8934294485703695
+    ],
+    "r2": 0.6634742547321069,
+    "label": "classical-memory",
+    "nu_raw": 0.701082993491741,
+    "classify_reasons": [
+      "nu CI [1.550, 3.705] lies entirely above 1.35",
+      "W_var = 16.36 >= 2.0: genuine run-to-run memory"
+    ],
+    "epcs": [
+      0.000727271766293891,
+      0.001023387156249056,
+      0.0006052841270690057,
+      0.0017324857165116336,
+      0.006347707846799999
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 2.627546087793824,
+    "nu_offset_err": 0.538818815562818,
+    "eps0_fit": 0.0007504751988370366,
+    "offset_r2": 0.9934454432921886,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 17,
+    "group": "candidate",
+    "ratio": 0.03851996543151703,
+    "T2_us": 13.228540819701356,
+    "nu": 0.6199403951367527,
+    "nu_ci": [
+      0.4694578590780474,
+      0.8003379805870178
+    ],
+    "r2": 0.7954257650989993,
+    "label": "memoryless",
+    "nu_raw": 0.6199403951367527,
+    "classify_reasons": [
+      "nu = 1.365 with CI [0.575, 2.156] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.001953636594676844,
+      0.0017380578498470411,
+      0.001956558218970561,
+      0.005137274700588668,
+      0.009741207024393017
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 1.3652699627848763,
+    "nu_offset_err": 0.3953399458525776,
+    "eps0_fit": 0.001361335635285943,
+    "offset_r2": 0.9814540405362159,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 16,
+    "group": "candidate",
+    "ratio": 0.02911734629656489,
+    "T2_us": 6.236233957336797,
+    "nu": 0.40215154476310677,
+    "nu_ci": [
+      0.3023706781793307,
+      0.511703740297518
+    ],
+    "r2": 0.9432992958116034,
+    "label": "memoryless",
+    "nu_raw": 0.40215154476310677,
+    "classify_reasons": [
+      "nu = 1.170 with CI [0.316, 2.025] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.003398781319516375,
+      0.004618766535113117,
+      0.005741446790834492,
+      0.00650931396829324,
+      0.011537640611617772
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 1.170424680407698,
+    "nu_offset_err": 0.42737030250757274,
+    "eps0_fit": 0.0035943151586364025,
+    "offset_r2": 0.9729016114377835,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 99,
+    "group": "candidate",
+    "ratio": 0.046487819591819975,
+    "T2_us": 13.205774362625297,
+    "nu": 0.5883511344831583,
+    "nu_ci": [
+      0.46195776345235157,
+      0.7336516562466021
+    ],
+    "r2": 0.7583198407685954,
+    "label": "memoryless",
+    "nu_raw": 0.5883511344831583,
+    "classify_reasons": [
+      "nu = 1.133 with CI [-0.020, 2.287] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.0022396839777735766,
+      0.0022355510445847826,
+      0.002022052784624251,
+      0.006401280955421695,
+      0.010169563004020055
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 1.1331139638422805,
+    "nu_offset_err": 0.5767303908178892,
+    "eps0_fit": 0.0013759910768557542,
+    "offset_r2": 0.9497260893004638,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 108,
+    "group": "control",
+    "ratio": 0.6897799295480893,
+    "T2_us": 30.12341953996018,
+    "nu": 0.6932008547916789,
+    "nu_ci": [
+      0.5907407099854478,
+      0.7964006182184283
+    ],
+    "r2": 0.9456314355752486,
+    "label": "memoryless",
+    "nu_raw": 0.6932008547916789,
+    "classify_reasons": [
+      "nu = 0.672 with CI [0.161, 1.182] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.004499018275287925,
+      0.004580882661525676,
+      0.01122489185200265,
+      0.017045213443784235,
+      0.025772845521601584
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 0.6716451182244639,
+    "nu_offset_err": 0.2553267878699483,
+    "eps0_fit": 4.743567574653089e-09,
+    "offset_r2": 0.9841854723847814,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 117,
+    "group": "candidate",
+    "ratio": 0.027214973861599642,
+    "T2_us": 5.390434125390718,
+    "nu": 0.5908800115115912,
+    "nu_ci": [
+      0.49181681008936,
+      0.7303353571158115
+    ],
+    "r2": 0.9822012209504215,
+    "label": "memoryless",
+    "nu_raw": 0.5908800115115912,
+    "classify_reasons": [
+      "nu = 0.567 with CI [0.046, 1.089] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.0034992194269046206,
+      0.005409178589838082,
+      0.00959500572961991,
+      0.011502598856505841,
+      0.01859952641720536
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 0.5671944176690157,
+    "nu_offset_err": 0.2608256897800691,
+    "eps0_fit": 7.829041631365835e-14,
+    "offset_r2": 0.9819540104844875,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 91,
+    "group": "control",
+    "ratio": 0.7936275152666895,
+    "T2_us": 169.0114805166613,
+    "nu": 0.5704667652521135,
+    "nu_ci": [
+      0.3706527426032127,
+      0.9171347169261499
+    ],
+    "r2": 0.8576728227551608,
+    "label": "memoryless",
+    "nu_raw": 0.5704667652521135,
+    "classify_reasons": [
+      "nu = 0.458 with CI [-0.652, 1.568] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.0005197338791025907,
+      0.0014543685679679896,
+      0.001897391720534769,
+      0.002075629202537177,
+      0.0031418208728565267
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 0.45796788824155615,
+    "nu_offset_err": 0.5552264412312156,
+    "eps0_fit": 6.370392124033477e-13,
+    "offset_r2": 0.9208861560391801,
+    "w_var_rep": null,
+    "dd_ratio": null
+  },
+  {
+    "qubit": 36,
+    "group": "candidate",
+    "ratio": 0.019474492240380063,
+    "T2_us": 6.704693502497445,
+    "nu": 0.4103143672506263,
+    "nu_ci": [
+      0.2859696032089385,
+      0.5373888888496005
+    ],
+    "r2": 0.8597588757891252,
+    "label": "memoryless",
+    "nu_raw": 0.4103143672506263,
+    "classify_reasons": [
+      "nu = 0.388 with CI [-0.938, 1.715] not resolved above 1.35; consistent with fast/Markovian noise (note nu -> 1 from above, so nu slightly > 1 is expected)"
+    ],
+    "epcs": [
+      0.0024130507726050077,
+      0.004836374804333632,
+      0.005665464432512146,
+      0.0056317085667583755,
+      0.009270240677492991
+    ],
+    "deltas_ns": [
+      40.0,
+      80.0,
+      160.0,
+      320.0,
+      640.0
+    ],
+    "monotonic": true,
+    "nu_offset": 0.38805504551785935,
+    "nu_offset_err": 0.6632529621954666,
+    "eps0_fit": 3.0563881110210007e-05,
+    "offset_r2": 0.8820532728217866,
+    "w_var_rep": null,
+    "dd_ratio": null
+  }
+]

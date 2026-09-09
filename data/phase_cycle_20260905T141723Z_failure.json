@@ -1,0 +1,19 @@
+{
+  "job_id": "dae28vm42tqs73au3u7g",
+  "status": "ERROR",
+  "error": "Job dae28vm42tqs73au3u7g ran longer than maximum execution time. Job was cancelled:\n",
+  "metrics": {
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+    "timestamps": {
+      "created": "2026-09-05T14:17:34.977401Z",
+      "finished": "2026-09-05T14:21:32.807842Z",
+      "running": "2026-09-05T14:17:35.792191Z"
+    },
+    "usage": {
+      "qpu_charge_time_seconds": 11,
+      "status": "pending"
+    },
+    "circuits_execution_time_ns": 7472983296
+  }
+}

@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "Public work substantially using the code must credit the authors and accompanying paper under LICENSE. Please also cite data and the exact repository version used."
+type: software
+title: "quantum-phase-cycled-rb: code and data for phase-cycled randomized benchmarking"
+version: "0.2.0"
+url: "https://github.com/Mirza-Samad-Ahmed-Baig/quantum-phase-cycled-rb"
+repository-code: "https://github.com/Mirza-Samad-Ahmed-Baig/quantum-phase-cycled-rb"
+authors:
+  - family-names: Baig
+    given-names: Mirza Samad Ahmed
+  - family-names: Gillani
+    given-names: Syeda Anshrah
+  - family-names: Khan
+    given-names: Abdul Akbar
+  - family-names: Khan
+    given-names: Muhammad Omer
+license-url: "https://github.com/Mirza-Samad-Ahmed-Baig/quantum-phase-cycled-rb/blob/HEAD/LICENSE"
+keywords:
+  - quantum computing
+  - randomized benchmarking
+  - classical noise correlations
+  - superconducting qubits
+preferred-citation:
+  type: article
+  title: "Phase-cycled randomized benchmarking of quantum processors: recovering hidden classical noise correlations"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2609.06448"
+      description: "arXiv preprint"
+  url: "https://arxiv.org/abs/2609.06448"
+  authors:
+    - family-names: Baig
+      given-names: Mirza Samad Ahmed
+    - family-names: Gillani
+      given-names: Syeda Anshrah
+    - family-names: Khan
+      given-names: Abdul Akbar
+    - family-names: Khan
+      given-names: Muhammad Omer

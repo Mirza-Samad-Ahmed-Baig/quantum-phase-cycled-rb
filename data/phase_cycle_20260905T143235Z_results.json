@@ -1,0 +1,91 @@
+{
+  "kind": "hardware_injected_control",
+  "job_id": "dae2g1m42tqs73au4ev0",
+  "backend": "ibm_fez",
+  "qubit": 46,
+  "blocks": 128,
+  "shots": 8,
+  "angle": 0.8,
+  "beta": 1.5707963267948966,
+  "readout_gain": 0.998046875,
+  "calibration_success": [
+    511,
+    0
+  ],
+  "calibration_shots": [
+    512,
+    512
+  ],
+  "bootstrap": 4000,
+  "arms": [
+    {
+      "arm": "correlated",
+      "connected": 0.2580352678082357,
+      "ci": [
+        0.19352765114209655,
+        0.3182334564658789
+      ],
+      "stderr": 0.03243501779280456,
+      "ideal_ensemble_truth": 0.22871100495584196
+    },
+    {
+      "arm": "reset",
+      "connected": 0.003988263262390167,
+      "ci": [
+        -0.0703715817962201,
+        0.0779016449695497
+      ],
+      "stderr": 0.03807232326766478,
+      "ideal_ensemble_truth": 0.0
+    },
+    {
+      "arm": "static",
+      "connected": 0.04562177362068273,
+      "ci": [
+        -0.030385084315184746,
+        0.1195191249992247
+      ],
+      "stderr": 0.0378762245935797,
+      "ideal_ensemble_truth": 0.0
+    },
+    {
+      "arm": "none",
+      "connected": 0.04160635608429277,
+      "ci": [
+        -0.04097835959658729,
+        0.12650562953863112
+      ],
+      "stderr": 0.04241974567658367,
+      "ideal_ensemble_truth": 0.0
+    }
+  ],
+  "primary": {
+    "contrast": "correlated minus reset",
+    "estimate": 0.25404700454584556,
+    "ci": [
+      0.17749893741655995,
+      0.3310321273393324
+    ],
+    "stderr": 0.03929087788033155
+  },
+  "metrics": {
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "qiskit_version": "qiskit_ibm_runtime-0.48.0,qiskit-2.5.1*,qiskit_experiments-0.14.1",
+    "timestamps": {
+      "created": "2026-09-05T14:32:38.867258Z",
+      "finished": "2026-09-05T14:36:46.481626Z",
+      "running": "2026-09-05T14:33:01.910896Z"
+    },
+    "usage": {
+      "qpu_charge_time_seconds": 12,
+      "status": "complete"
+    },
+    "circuits_execution_time_ns": 8753447680
+  },
+  "caveats": [
+    "Only injected noise is paired across settings; intrinsic noise is not replayed.",
+    "Affine readout model and stable gate errors are assumptions; controls test their impact.",
+    "This is not a quantum-memory certification or a native-memory detection."
+  ],
+  "raw_counts_sha256": "8cf64aef3c3dba1147e75188107051fc5e2a9866fc5e84cab58d3331767d045d"
+}
